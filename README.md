@@ -10,6 +10,15 @@ img {
 }
 ```
 
+## Expected output
+
+An image 150px x 150px
+
+## Actual output
+
+An image 850px x 850px
+
+## Notes:
 Versions and OS:
 - OS: macOS Monterey
 - Chrome: Version 106.0.5249.119 (Official Build) (arm64)
